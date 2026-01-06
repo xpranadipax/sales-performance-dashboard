@@ -51,4 +51,4 @@ Help the marketing team:
 ---
 
 ## 📷 Dashboard Preview
-*(Screenshot will be added)*
+![Sales Dashboard](sales_dashboard.png)
